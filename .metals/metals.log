@@ -1,0 +1,54 @@
+2025.06.08 19:39:05 INFO  Started: Metals version 1.6.0 in folders '/Users/troymcgahey/Projects/Spark/nyc-taxi-spark' for client Visual Studio Code 1.96.2.
+2025.06.08 19:39:09 WARN  no build target for: /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/build.sbt
+2025.06.08 19:39:09 WARN  no build target for: /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala
+2025.06.08 19:39:09 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:39:13 WARN  no build target for: /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/build.sbt
+2025.06.08 19:39:13 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:39:13 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:39:13 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:39:13 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:39:13 WARN  Could not find semantic tokens for: file:///Users/troymcgahey/Projects/Spark/nyc-taxi-spark/build.sbt
+2025.06.08 19:39:13 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:39:15 WARN  no build target for: /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala
+2025.06.08 19:39:15 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:39:15 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:39:15 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:39:39 WARN  no build target for: /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala
+2025.06.08 19:39:39 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:20 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:20 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:22 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:23 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:23 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:23 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:23 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:23 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:24 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:24 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:24 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:24 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:24 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:24 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:24 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:25 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:27 WARN  no build target for: /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala
+2025.06.08 19:40:27 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:40:42 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:41:04 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:41:08 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:31 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:31 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:31 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:31 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:31 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:31 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:33 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:33 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:33 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:33 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:34 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:34 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:34 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 19:44:36 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 20:04:06 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.08 20:04:06 INFO  no build target found for /Users/troymcgahey/Projects/Spark/nyc-taxi-spark/src/main/scala/TaxiQuery.scala. Using presentation compiler with project's scala-library version: 3.3.6
