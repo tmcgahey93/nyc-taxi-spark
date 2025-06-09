@@ -22,4 +22,4 @@ RUN curl -s https://raw.githubusercontent.com/paulp/sbt-extras/master/sbt > /usr
     sbt clean package
 
 # Run the app
-CMD ["spark-submit", "--class", "TaxiApp", "target/scala-2.12/taxiapp_2.12-0.1.jar"]
+CMD ["spark-submit", "--class", "TaxiQuery", "target/scala-2.12/taxiquery_2.12-0.1.jar"]

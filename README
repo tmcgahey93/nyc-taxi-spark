@@ -1,2 +1,4 @@
 6/08/2025 - Created new Spark app
 6/08/2025 - TODO: Containerize in Docker. Create DAG and schedule w/Airfow
+6/09/2025 - Completed Docker File. Command to run app: docker run --rm spark-taxi-app
+6/09/2025 - TODO: Create DAG to run app
