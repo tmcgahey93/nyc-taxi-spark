@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[nyc-taxi-spark-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[nyc-taxi-spark-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'nyc-taxi-spark-build' to '/Users/troymcgahey/Projects/Spark/nyc-taxi-spark/project/.bloop/nyc-taxi-spark-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/nyc-taxi-spark-build.json[0m

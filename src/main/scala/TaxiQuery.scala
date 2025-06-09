@@ -7,7 +7,7 @@ object TaxiQuery {
       .master("local[*]")
       .getOrCreate()
 
-    val df = spark.read.parquet("yellow_tripdata_2024-12.parquet")
+    val df = spark.read.parquet("data/yellow_tripdata_2024-12.parquet")
     df.createOrReplaceTempView("taxi")
 
     val result = spark.sql("""
